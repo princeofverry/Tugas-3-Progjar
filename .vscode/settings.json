@@ -1,6 +1,8 @@
 {
   "files.associations": {
     "*.embeddedhtml": "html",
-    "errno.h": "c"
+    "errno.h": "c",
+    "string.h": "c",
+    "stdio.h": "c"
   }
 }
